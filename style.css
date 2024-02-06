@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    min-width: 0;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+    display: block;
+    max-width: 100%;
+}
